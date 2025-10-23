@@ -1,0 +1,5 @@
+{
+  "name": "Sistema de Gestão de Fornecedores",
+  "description": "Uma plataforma para supermercados otimizarem as relações comerciais com fornecedores, controlando negociações, bonificações, perdas e pontos de gôndola.",
+  "requestFramePermissions": []
+}
